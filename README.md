@@ -3,7 +3,7 @@
 **Overview**
 This repository contains applied data analytics projects focused on A/B testing, SQL-based CRM segmentation, and Python ETL automation for product metrics. 
 
-## Project Product_analytics: A/B Testing Analysis for Payment Mechanics
+## Project Product analytics: A/B Testing Analysis for Payment Mechanics
 * **Goal:** Evaluate the impact of a new payment mechanic on conversion rates (CR) and average revenue (ARPU/ARPPU) to determine the feasibility of a global rollout.
 * **Tech Stack:** Python (pandas, SciPy, Seaborn, Matplotlib).
 * **Key Results:**
